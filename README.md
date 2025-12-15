@@ -71,6 +71,8 @@ This section
 
 
  has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ 
 Ce que tu veux
 Dans ce point de contrôle, nous allons utiliser ce que nous avons appris auparavant pour créer une application ToDo tout en utilisant Redux pour gérer l’état global.
 
